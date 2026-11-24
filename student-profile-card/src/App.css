@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f1f2ff;
+}
+
+.app {
+  min-height: 100vh;
+  padding: 30px 15px;
+}
+
+.app h1 {
+  text-align: center;
+  color: #292c55;
+  margin-top: 15px;
+}
